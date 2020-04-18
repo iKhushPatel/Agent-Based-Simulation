@@ -1,7 +1,6 @@
 from mesa import Agent
 import random
 #Base class to handle movements of Agents
-#temp
 class Walker(Agent):
     
     grid = None
